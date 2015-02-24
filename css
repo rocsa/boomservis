@@ -1,0 +1,11 @@
+.search_jobs > div.search_keywords {
+	display: none;
+}
+
+.search_jobs> div.search_region {
+   width: 49%; 
+}
+
+.search_jobs> div.search_categories {
+  width: 48%;
+}
